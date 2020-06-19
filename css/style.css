@@ -411,4 +411,66 @@ font-weight: 100;
 /*FABY FIN*/
 
 
+/*Ghyna inicio*/
+
+#info{
+	padding-top: 200px;
+}
+
+#info h5{
+	text-align: center;
+	
+}
+
+#info p{
+	font-size: 15px;
+	font-weight: 100;
+	text-align: left;
+	text-align: center;
+	
+}
+
+#info .normal{
+	text-align: center;
+	margin-top: -20;
+}
+
+#info img{
+	object-fit: cover;
+  	width: 100%;
+  	height: 300px;
+	padding-left: 100px;
+}
+
+#contact-map{
+	background-image: url("../img/footer-bg.jpg");
+	background-position: top center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+#contact-map .container{
+	margin-top: -10px;
+}
+
+/*Ghyna FIN*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
