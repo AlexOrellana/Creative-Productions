@@ -66,6 +66,51 @@ h1{
 	padding-right: 250px;
 	color: #594064;
 }
+/*Inicio alfredo*/
+#Quien-Somos p{
+	padding-top: 10px;
+	margin-bottom: -110px;
+	margin-left: -35px;
+	font-size: 15px;
+	width: 42%;
+	color: #B3B3B3;
+	text-align:left; 
+	
+}
+.btn-servicio3{
+	background-color: rgba(252,252,252,0.24);
+	border-radius:3  ;
+	border:rgba(255,255,255,1.00);
+	width:10; 
+	margin-top:120px;
+	margin-left:80px;
+	position: absolute;
+	height: 10;
+	border-color: #FFF3F3;		
+}
+.btn-servicio1:hover{
+	background-color: #E7E7E7;
+	transition: all 0.8s ease-in-out;}
+.btn-servicio4{
+	background-color: rgba(252,252,252,0.24);
+	border-radius:3  ;
+	border:rgba(255,255,255,1.00);
+	width:10; 
+	margin-top:150px;
+	margin-left:65px;
+	position: absolute;
+	height: 10;
+	border-color: #FFF3F3;		
+}
+.btn-servicio1:hover{
+	background-color: #E7E7E7;
+	transition: all 0.8s ease-in-out;}
+
+/*Final Alfredo*/
+
+
+
+
 
 #Informacion img{
 	width: 500px;
@@ -247,6 +292,105 @@ font-weight: 100;
 	padding-right: 5px !important;
 }
 
+
+
+#servicios img{
+	/*width: 60%;
+	margin-top: 260px;
+	padding-left: 10px;
+	float: left;
+	padding-bottom: 70px;*/
+	/*width:  402px;
+    height: 300px;
+    object-fit: cover;
+	float: left;
+	
+	margin-top: 260px;
+	padding-left: 10px;
+	padding-bottom: 70px;*/
+}
+
+#servicios h2{
+	font-size: 40px;
+	font-weight: 300;
+	margin-top: 260px;	
+}
+
+/*.btn-servicio1{
+	background: linear-gradient(to right,#7c3fdb, #3370e7);
+	border-radius: 0;
+	border: 0;
+	width: 50; 
+	margin-top: 90px;
+	margin-left: -180px;
+	position: absolute;
+}
+
+.btn-servicio1:hover{
+	background: linear-gradient(to right,#7c3fdb,#0000FF);
+	transition: all 0.8s ease-in-out;}
+
+.btn-servicio1 h7{
+	color: #FFFFFF;
+	letter-spacing: 3px;
+	font-size: 15px;
+}*/
+
+#servicios p{
+	font-size: 15px;
+	font-weight: 100;
+	text-align: left;
+}
+
+/*width:  402px;
+    height: 300px;
+    object-fit: cover;
+	float: left;
+	
+	margin-top: 260px;
+	padding-left: 10px;
+	padding-bottom: 70px;*/
+
+#servicios .foto {
+  margin-top: 260px;
+  position: relative;
+  width: 100%;
+}
+
+/* Make the image responsive */
+#servicios .foto img {
+  object-fit: cover;
+  width: 100%;
+  height: 300px;
+}
+
+/* Style the button and place it in the middle of the container/image */
+#servicios .foto .btn {
+  background: linear-gradient(to right,#7c3fdb, #3370e7);
+  position: absolute;
+  top: 70%;
+  left: 90%;
+  transform: translate(-50%, -50%);
+  background-color: #555;
+  color: white;
+  font-size: 16px;
+  padding: 12px 24px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+		
+}
+
+#servicios .foto .btn:hover {
+  background: linear-gradient(to right,#7c3fdb,#0000FF);
+  transition: all 0.8s ease-in-out;
+}
+
+#servicios .trabajo-desc{
+	padding-left: -10px;
+}
+
+/*FABY INICIO*/
 #pasantias{
 	padding: 100px 100px 35px;
 	background: linear-gradient(to right, #B07ADD, #3EACDA);
@@ -264,3 +408,7 @@ font-weight: 100;
 	padding-top: 100px;
 	text-align: right;
 }
+/*FABY FIN*/
+
+
+
